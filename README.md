@@ -118,7 +118,7 @@ The following hypothesis: gender affects the performance /number of transactions
 <a href="https://colab.research.google.com/drive/1ymMrdqEPyN04NqRl0koryZc7kSPDmGwa?usp=sharing">Ссылка на 3-ий проект в Google Colab.</a> Либо третий проект можно посмотреть в формате файла .py под названием "3rd project".<br>
 <br>
 Компетенции:<br>
-•	выявлять и корректно обрабатывать выбросы, пропуски и дубликаты в данных;
+•	выявлять и корректно обрабатывать выбросы, пропуски и дубликаты в данных;<br>
 •	формулировать и проверять гипотезы с применением знаний описательной статистики и основ математического анализа.<br>
 <br>
 Задачи:<br>
